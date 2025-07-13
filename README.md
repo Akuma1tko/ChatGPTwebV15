@@ -1,4 +1,6 @@
 # ChatGPTWebV15
+[![Download v1.0.0](https://img.shields.io/badge/download-v1.0.0-blue)](https://github.com/Akuma1tko/ChatGPTwebV15/releases/tag/v1.0.0)
+
 
 A standalone iOS 15 wrapper for ChatGPT, featuring a manual cookie-injection login fix and a modern multi-account floating button UI.
 
